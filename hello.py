@@ -1,4 +1,4 @@
-# Just trying out using python instead of c++
+# A different, much better version of hello.py.
 
-print ("Hello, world!")
-# Yep, much better.
+print ("HELLO!")
+# Much better indeed
